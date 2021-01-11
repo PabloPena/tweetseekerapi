@@ -9,7 +9,7 @@ The app has been developing for training purposes.
 
 ### Demo
 
-Demo application deployed on heroku. ¿?PENDING¿?
+Demo application deployed on heroku. (https://tweet-seeker-api.herokuapp.com/)
 
 ### Swagger
 
